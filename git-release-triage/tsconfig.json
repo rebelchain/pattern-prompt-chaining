@@ -40,6 +40,6 @@
     "moduleDetection": "force",
     "skipLibCheck": true
   },
-  "include": ["src/**/*"],
+  "include": ["src/**/*", "test/step1.smoke.ts"],
   "exclude": ["node_modules", "dist"]
 }
