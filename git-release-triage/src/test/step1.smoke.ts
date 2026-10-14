@@ -1,4 +1,4 @@
-import { Step1Schema, type Step1Output } from "../src/schemas/step1.js";
+import { Step1Schema, type Step1Output } from "../schemas/step1.js";
 
 // TEST 1: Valid Data
 const validData: Step1Output = {
